@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mykhailo Pohorenyi</h1>
+<h1>Hi 👋, I'm Mykhailo Pohorenyi</h1>
 <h3 align="justify">Front-end developer with nearly a year of experience, driven by a passion for creating modern, stylish, and functional web applications that cater to the needs of both end users and businesses. Armed with a degree in mathematics and teaching, I bring a unique blend of analytical thinking and creative problem-solving to my development projects. Beyond coding, I find joy in assembling computers and exploring various hardware components, enhancing my technical expertise.</h3>
 
 ---
 
-<h1 align="center">Skills and Tools</h1>
+<h1>Skills and Tools</h1>
 
-<div align="center">
+<div>
   <img width="50px" src="https://devicons.railway.app/i/html5.svg" />
   <img width="50px" src="https://devicons.railway.app/i/css3.svg" />
   <img width="50px" src="https://devicons.railway.app/i/sass.svg" />
@@ -27,9 +27,9 @@
 
 <br />
   
-<h1 align="center">Future Plans</h1>
+<h1>Future Plans</h1>
 
-<div align="center">
+<div>
   <img width="50px" src="https://devicons.railway.app/i/vuejs.svg" />
   <img width="50px" src="https://devicons.railway.app/i/angularjs.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
@@ -38,9 +38,9 @@
 
 ---
 
-<h1 align="center">Contact me</h1>
+<h1>Contact me</h1>
 
-<div align="center">
+<div>
   <a href="mailto:mykhailo.pohorenyi@gmail.com"><img width="50px" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"/></a>
   <a href="https://www.linkedin.com/in/mykhailo-pohorenyi/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="https://t.me/mpohorenyi"><img width="50px" src="https://www.svgrepo.com/show/452115/telegram.svg"/></a>
