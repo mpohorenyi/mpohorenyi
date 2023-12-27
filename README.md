@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mykhailo Pohorenyi</h1>
+<h3 align="justify">Front-end developer with nearly a year of experience, driven by a passion for creating modern, stylish, and functional web applications that cater to the needs of both end users and businesses. Armed with a degree in mathematics and teaching, I bring a unique blend of analytical thinking and creative problem-solving to my development projects. Beyond coding, I find joy in assembling computers and exploring various hardware components, enhancing my technical expertise.</h3>
 
-<!--
-**mpohorenyi/mpohorenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">Skills and Tools</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="50px" src="https://devicons.railway.app/i/html5.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/css3.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/sass.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/javascript.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/typescript.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/react.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/redux.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/nodejs.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/postgresql.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/git.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/github-light.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/npm.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/visual-studio-code.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/figma.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+</div
+
+<br />
+  
+<h1 align="center">Future Plans</h1>
+
+<div align="center">
+  <img width="50px" src="https://devicons.railway.app/i/vuejs.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/angularjs.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/nextjs-light.svg" />
+</div>
+
+---
+
+<h1 align="center">Contact me</h1>
+
+<div align="center">
+  <a href="mailto:mykhailo.pohorenyi@gmail.com"><img width="50px" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"/></a>
+  <a href="https://www.linkedin.com/in/mykhailo-pohorenyi/"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://t.me/mpohorenyi"><img width="50px" src="https://www.svgrepo.com/show/452115/telegram.svg"/></a>
+</div>
