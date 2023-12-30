@@ -17,6 +17,7 @@
   <img width="50px" src="https://devicons.railway.app/i/nodejs.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img width="50px" src="https://devicons.railway.app/i/postgresql.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/postman.svg" />
   <img width="50px" src="https://devicons.railway.app/i/git.svg" />
   <img width="50px" src="https://devicons.railway.app/i/github-light.svg" />
   <img width="50px" src="https://devicons.railway.app/i/npm.svg" />
