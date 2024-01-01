@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mykhailo Pohorenyi</h1>
-<h3 align="justify">Front-end developer with nearly a year of experience, driven by a passion for creating modern, stylish, and functional web applications that cater to the needs of both end users and businesses. Armed with a degree in mathematics and teaching, I bring a unique blend of analytical thinking and creative problem-solving to my development projects. Beyond coding, I find joy in assembling computers and exploring various hardware components, enhancing my technical expertise.</h3>
+<h3 align="justify">Front-end developer, driven by a passion for creating modern, stylish, and functional web applications that cater to the needs of both end users and businesses. Armed with a degree in mathematics and teaching, I bring a unique blend of analytical thinking and creative problem-solving to my development projects. Beyond coding, I find joy in assembling computers and exploring various hardware components, enhancing my technical expertise.</h3>
 
 ---
 
