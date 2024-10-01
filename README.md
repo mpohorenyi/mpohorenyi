@@ -13,6 +13,7 @@
   <img width="50px" src="https://devicons.railway.app/i/javascript.svg" />
   <img width="50px" src="https://devicons.railway.app/i/typescript.svg" />
   <img width="50px" src="https://devicons.railway.app/i/react.svg" />
+  <img width="50px" src="https://devicons.railway.app/i/nextjs-light.svg" />
   <img width="50px" src="https://devicons.railway.app/i/redux.svg" />
   <img width="50px" src="https://devicons.railway.app/i/nodejs.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -34,7 +35,6 @@
   <img width="50px" src="https://devicons.railway.app/i/vuejs.svg" />
   <img width="50px" src="https://devicons.railway.app/i/angularjs.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img width="50px" src="https://devicons.railway.app/i/nextjs-light.svg" />
 </div>
 
 ---
