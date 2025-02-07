@@ -32,8 +32,6 @@
 <h1>Future Plans</h1>
 
 <div>
-  <img width="50px" src="https://devicons.railway.app/i/vuejs.svg" />
-  <img width="50px" src="https://devicons.railway.app/i/angularjs.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
